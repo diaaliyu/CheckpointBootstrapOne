@@ -1,0 +1,104 @@
+/*
+
+
+body {
+    background-color: darkgoldenrod;
+}
+.page-header {
+    margin-right: -8%;
+    margin-left: -55%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+#logo {
+    margin-left: -20%;
+    text-decoration: none;
+}*/
+ 
+ #navbarText{
+margin-right: 100px;
+display: inline-block;
+
+ }
+  .bg-body-tertiary{
+    background-color: darkslategray;
+  }
+  .nav-link{
+    margin-left: 65px;
+    justify-content: space-between;
+  }
+  
+  
+.collapse{
+  margin-left: 100px;
+}
+.food{
+  /*position: fixed;*/
+  width: 100%;
+  height: 800px;
+  margin-top: -100px;
+
+}
+.titre{
+ color: cadetblue;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin-left: 480px;
+margin-top: 100px;
+}
+/*.pizo{
+  margin-top: 50px;
+  margin-left: 400px;
+}*/
+.bit{
+  margin-bottom: -1300px;
+  margin-left: 580px;
+}
+.minu{
+  text-align: center;
+ color: antiquewhite;
+}
+.img-card{
+  background-color: darkgray;
+}
+.card1 .card2{
+  display: flex;
+ 
+}
+.secForm{
+  background-color: darkgoldenrod;
+}
+/*.secForm input {
+  width: 75%;
+}*/
+ .secForm form{
+  border: 1px solid darkgoldenrod;
+  margin: 0 auto;
+  width: 70%;
+ }
+ .foot{
+  color: darkgray;
+  text-align: center;
+ }
+ 
+ 
